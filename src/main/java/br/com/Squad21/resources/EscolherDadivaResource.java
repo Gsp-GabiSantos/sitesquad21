@@ -22,7 +22,7 @@ import br.com.Squad21.servicies.EscolherDadivaService;
 
 @RestController
 @RequestMapping("/escolherdadivas")
-@CrossOrigin(origins = "https://refugio.netlify.app/")
+@CrossOrigin(origins = "https://squad21-front-react-js.vercel.app/")
 public class EscolherDadivaResource {
 
 

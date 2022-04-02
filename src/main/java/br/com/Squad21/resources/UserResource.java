@@ -19,7 +19,7 @@ import br.com.Squad21.servicies.UserService;
 
 @RestController
 @RequestMapping("/usuarios")
-@CrossOrigin(origins = "https://refugio.netlify.app/")
+@CrossOrigin(origins = "https://squad21-front-react-js.vercel.app/")
 public class UserResource {
 	
 	@Autowired

@@ -21,7 +21,7 @@ import br.com.Squad21.servicies.AtenderDadivaService;
 
 @RestController
 @RequestMapping("/atenderdadivas")
-@CrossOrigin(origins = "https://refugio.netlify.app/")
+@CrossOrigin(origins = "https://squad21-front-react-js.vercel.app/")
 public class AtenderDadivaResource {
 	
 	@Autowired
